@@ -55,6 +55,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EditPartListPrefab.cs" />
     <Compile Include="KSP4X.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
