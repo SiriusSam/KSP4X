@@ -1,0 +1,11 @@
+C:\Users\Sami\Documents\GitHub\KSP4X\GameData\KSP4X.dll
+C:\Users\Sami\Documents\GitHub\KSP4X\GameData\KSP4X.pdb
+C:\Users\Sami\Documents\GitHub\KSP4X\GameData\ScrapYard.dll
+C:\Users\Sami\Documents\GitHub\KSP4X\GameData\ScrapYard.pdb
+C:\Users\Sami\Documents\GitHub\KSP4X\obj\Release\KSP4X.csprojResolveAssemblyReference.cache
+C:\Users\Sami\Documents\GitHub\KSP4X\obj\Release\KSP4X.dll
+C:\Users\Sami\Documents\GitHub\KSP4X\obj\Release\KSP4X.pdb
+C:\Users\Sami\Documents\GitHub\KSP4X\GameData\KSP4X\KSP4X.dll
+C:\Users\Sami\Documents\GitHub\KSP4X\GameData\KSP4X\KSP4X.pdb
+C:\Users\Sami\Documents\GitHub\KSP4X\GameData\KSP4X\ScrapYard.dll
+C:\Users\Sami\Documents\GitHub\KSP4X\GameData\KSP4X\ScrapYard.pdb
